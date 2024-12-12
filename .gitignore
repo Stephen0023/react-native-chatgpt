@@ -39,4 +39,4 @@ app-example
 
 
 # local env files
-.env*.local
+.env
